@@ -8,8 +8,8 @@ cap.set(4,framehight)
 cap.set(10,150)
 #[90, 48, 0, 118, 255, 255]
 
-myColors = [[0,115,133,17,194,255],
-            [90,151,135,179,255,255]]
+myColors = [[0,115,133,17,194,255], # those numbers are the filter we use to detect a certain color for example the first vector is for red and the second is for blue 
+            [90,151,135,179,255,255]] # you should use the color detect code to get the right filter for the color you want to use 
 
 myColorValues = [[0,0,255],   #BGR
                  [255,0,0]]
