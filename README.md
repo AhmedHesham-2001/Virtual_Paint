@@ -8,7 +8,12 @@ the code has three main functions findColor(img,myColors, myColorValues), getCon
 
 
 
-![WhatsApp Image 2023-07-27 at 12 16 25 AM](https://github.com/AhmedHesham-2001/Virtual_Paint/assets/85707360/29440b12-d2cd-4078-a943-9f728d91b721)
+https://github.com/AhmedHesham-2001/Virtual_Paint/assets/85707360/583168a9-098e-4ca9-ba99-ec2542acbc14
+
+
+
 
 i would like to thank mr.Murtaza for his youtube video where i learned opencv  
 the youtube video : https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=3399s
+
+![WhatsApp Image 2023-07-27 at 12 16 25 AM](https://github.com/AhmedHesham-2001/Virtual_Paint/assets/85707360/29440b12-d2cd-4078-a943-9f728d91b721)
